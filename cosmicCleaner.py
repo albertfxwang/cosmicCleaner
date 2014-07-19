@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file 'cosmicCleaner.ui'
 #
-# Created: Sat Jul 19 23:43:45 2014
+# Created: Sun Jul 20 00:49:14 2014
 #      by: PyQt4 UI code generator 4.10.2
 #
 # WARNING! All changes made in this file will be lost!
@@ -40,6 +40,7 @@ class Ui_Form(object):
         self.listWidget = QtGui.QListWidget(self.groupBox)
         self.listWidget.setMinimumSize(QtCore.QSize(257, 379))
         self.listWidget.setMaximumSize(QtCore.QSize(257, 16777215))
+        self.listWidget.setSelectionMode(QtGui.QAbstractItemView.MultiSelection)
         self.listWidget.setObjectName(_fromUtf8("listWidget"))
         self.gridLayout_2.addWidget(self.listWidget, 0, 1, 1, 2)
         self.pushButton = QtGui.QPushButton(self.groupBox)
