@@ -4,7 +4,7 @@
 # main.py -- L.A. Cosmic in PyQt4.
 #
 # Thanks for Ginga to Eric Jeschke (eric@naoj.org), https://github.com/ejeschke/ginga
-# Thanks for cosmic.py to Malte Tewes (mtewes (at) astro.uni-bonn.de), http://obswww.unige.ch/people/malte.tewes/cosmics_dot_py/
+# Thanks for cosmics.py to Malte Tewes (mtewes (at) astro.uni-bonn.de), http://obswww.unige.ch/people/malte.tewes/cosmics_dot_py/
 # Thanks to https://gist.github.com/Maduranga/ for embedding matplotlibWidget into PyQt4
 
 # Copyleft, Yücel Kılıç (yucelkilic@myrafproject.org).
